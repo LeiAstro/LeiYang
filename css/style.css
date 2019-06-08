@@ -621,7 +621,7 @@ div#myTabContent {
 /*-- footer --*/
 .footer{
 	padding:4em 0;
-	background-image: url(images/footfig.jpg);
+	background-image: url(footfig.jpg);
 	background-size: 100% 100%;
 }
 .footer-grid h3{
